@@ -1,0 +1,3 @@
+# python tem uma tipagem dinamica tipo js e não precisamos definir um tipo de variavels, const, let...
+favorite_robot = 'Cedric'
+meaning_of_life = 42
