@@ -47,5 +47,6 @@ def BoggleWords(grid, dict):
 
     return words
 
+#lista de palavras que vem por padrão dentro do linux
 d = MakeTrie('/usr/share/dict/words')
 print(BoggleWords(['ebox', 'alec', 'rias', 'tome'], d))
